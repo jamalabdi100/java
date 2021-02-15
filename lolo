@@ -1,0 +1,53 @@
+// from data.js
+var tableData = data;
+
+// YOUR CODE HERE!
+<html>
+<head>
+    meta charset= "utf-8"  />
+    <title> page index.html</title>
+    <meta name= Viewport" content="width-, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css
+
+<!DOCTYPE html>
+</head>
+<body>
+
+<table>
+<tr>
+new var data == data
+input data == index.html
+
+<th>tableData<?th>
+<th>datetime:<?th>
+<th>city</th>
+<th>state</th>
+<th>country</th>
+<th>shape</th>
+<th>comments</th>
+
+
+input.tableData
+<form id="form"> 
+  <input type="search" id="query" name="datetime" placeholder="Search...">
+  <button>Search</button>
+</form>
+
+
+
+</table>
+
+</body>
+</html>
+
+
+
+
+// "Here's my comment for the the assignment for the coding above, I would like to explaing
+my code. I generally created a table in order to make an automatic table and a data searc.
+The first thing I created is the webpage and imported the data from the start-up code'
+After doing that I created a table , <table> and made a new var called data and put the information  of
+it in. Secondly I named the the different columns what the assignment as for but It was very hard to
+differentiate which data went in one or the other. Lastly, I created an auto search for datetime.
+This assignment was somewhat hard, and I tried my best to figure, it was very interesting working with these 
+data types but generally I feel like it was somewhat hard".
